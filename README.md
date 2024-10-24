@@ -63,3 +63,5 @@ python manage.py runserver  
 -    Backend: Django
 -    Database: SQLite
 -    Frontend: HTML, CSS
+
+![](https://github.com/yafiet231/Task_trackin_app_with_user_authntication/blob/master/images/Capture1.PNG)
