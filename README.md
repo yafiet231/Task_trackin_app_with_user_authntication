@@ -20,9 +20,6 @@
 -    Personal Productivity: The need for a reliable tool to manage daily tasks and maintain organization.
 -    Open-Source Community: Contributing to a growing ecosystem of productivity apps and sharing knowledge.
 
-
-![](https://github.com/mahari9/Your-home/blob/master/screenshot/Urhome-landing-page.png)
-
 ### Live Demo
 * [Live Demo](https://www.youtube.com/watch?v=GWKPiIitjeE)
 
