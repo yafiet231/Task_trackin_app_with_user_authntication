@@ -64,4 +64,16 @@ python manage.py runserver  
 -    Database: SQLite
 -    Frontend: HTML, CSS
 
+**Authentication:**
+
+-    Register and Login
+-    Register and log in as a user.
+
 ![](https://github.com/yafiet231/Task_trackin_app_with_user_authntication/blob/master/images/Capture1.PNG)
+![](https://github.com/yafiet231/Task_trackin_app_with_user_authntication/blob/master/images/Capture2.PNG)
+
+
+
+![](https://github.com/yafiet231/Task_trackin_app_with_user_authntication/blob/master/images/Capture3.PNG)
+![](https://github.com/yafiet231/Task_trackin_app_with_user_authntication/blob/master/images/Capture4.PNG)
+![](https://github.com/yafiet231/Task_trackin_app_with_user_authntication/blob/master/images/capture5.PNG)
