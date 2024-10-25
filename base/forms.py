@@ -1,6 +1,6 @@
 from django import forms
 
-# Reordering Form and View
+# Reordering Form and Views
 
 
 class PositionForm(forms.Form):
