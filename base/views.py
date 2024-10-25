@@ -26,6 +26,15 @@ class CustomLoginView(LoginView):
     def get_success_url(self):
         return reverse_lazy('tasks')
 
+class CustomLoginView(LoginView):
+    template_name = 'base/login.html'
+
+    def get_context_data(self, **kwargs):
+        context = super().get_context_data(**kwargs)
+        if self.request.user.is_authenticated:
+            context['profile'] = Profile.objects.get(user=self.request.user)
+        return
+
 
 class RegisterPage(FormView):
     template_name = 'base/register.html'
