@@ -5,15 +5,16 @@
 
 * [Project inspiration](#Project-inspiration)
 * [Live Demo](#Live-Demo)
-* [Features](#Features)
 * [Technologies](#Technologies)
-* [How to Use](#How-to-Use)
+* [Install Dependencies](#install dependencies)
+ [How to Use](#How-to-Use)
 * [Contributing](#Contributing)
 * [Project Blog](#Project-Blog)
 * [Authors](#Authors)
 * [Licensing](#Licensing)
 * [Future Development](#Future-Development)
-* [More Screenshots](#More-Screenshots)
+* [Screenshots](#Screenshots)
+* [features](#features)
 
 ### Project Inspiration
 
@@ -34,8 +35,8 @@ https://github.com/yafiet231/Task_trackin_app_with_user_authntication
 
 Create a Virtual Environment (Optional):
    python -m venv venv
-# source venv/bin/activate  
-# On Windows: venv\Scripts\activate
+**source venv/bin/activate**
+**On Windows: venv\Scripts\activate**
 
 3. **Install Dependencies:**
 
@@ -81,8 +82,6 @@ Create a superuser account (for admin access)
 
 ![](https://github.com/yafiet231/Task_trackin_app_with_user_authntication/blob/master/images/Capture1.PNG)
 ![](https://github.com/yafiet231/Task_trackin_app_with_user_authntication/blob/master/images/Capture2.PNG)
-
-**more screenshots**
 
 ![](https://github.com/yafiet231/Task_trackin_app_with_user_authntication/blob/master/images/Capture3.PNG)
 ![](https://github.com/yafiet231/Task_trackin_app_with_user_authntication/blob/master/images/Capture4.PNG)
